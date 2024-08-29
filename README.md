@@ -15,7 +15,7 @@ Sou Desenvolvedor Backend especializado em PHP, com foco em sistemas financeiros
 
 ## 📊 Alguns números do GitHub
 
-![Gerson Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersonvinicius&show_icons=true&theme=radical)
+![Gerson Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersonvinicius&show_icons=true&theme=radical&v=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersonvinicius&layout=compact&theme=radical)
 
 ## 📫 Contato
