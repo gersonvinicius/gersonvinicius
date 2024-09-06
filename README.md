@@ -13,10 +13,10 @@ Sou Desenvolvedor Backend especializado em PHP, com foco em sistemas financeiros
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 Alguns números do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
-![Gerson Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersonvinicius&show_icons=true&theme=radical&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersonvinicius&layout=compact&theme=radical&v=2)
+![Gerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersonvinicius&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gersonvinicius&layout=compact&theme=radical)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-vinicius/)
